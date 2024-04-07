@@ -1,3 +1,5 @@
+# Llama.cpp test using OpenAI server
+
 A test repo for running local Llama LLM model using streamlit.
 
 # How to start?
@@ -31,3 +33,7 @@ python -m  llama_cpp.server --model ../models/the-file-name-of-your-model.ext
 ```bash
 python -m  llama_cpp.server --model ../models/the-file-name-of-your-model.ext --n_gpu_layers {number of gpu layers}
 ```
+
+### For more information and if you want to try using multimodal model. Go check out this video
+
+[https://www.youtube.com/watch?v=voHTS9Nk5VY](https://www.youtube.com/watch?v=voHTS9Nk5VY)
