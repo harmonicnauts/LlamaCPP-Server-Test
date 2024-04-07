@@ -1,0 +1,4 @@
+models/*.gguf
+w64devkit
+llama.cpp
+*.zip
