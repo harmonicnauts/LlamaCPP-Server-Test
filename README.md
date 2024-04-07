@@ -1,6 +1,6 @@
 # Llama.cpp test using OpenAI server
 
-A test repo for running local Llama LLM model using streamlit.
+A test repo for running local Llama LLM model using Llama.cpp, OpenAI library, and streamlit as user interface.
 
 # How to start?
 
